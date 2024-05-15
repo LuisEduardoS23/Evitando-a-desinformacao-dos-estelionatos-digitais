@@ -1,0 +1,35 @@
+.paragrafo{
+    font-family: "Roboto Mono", monospace;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: justify;
+}
+h1{
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-size: 45px;
+    text-align: center;
+}
+.imagem{
+    text-align: center;
+}
+h2{
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+}
+.topico{
+    font-family: "Roboto Mono", monospace;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: justify;
+}
+li{
+    font-size: 25px;
+}
+.legenda_foto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: center;
+}
